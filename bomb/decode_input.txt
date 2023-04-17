@@ -1,0 +1,4 @@
+There are rumors on the internets.
+0 1 3 6 10 15
+t 316 
+8 35
